@@ -1,38 +1,27 @@
-# Two Sum Problem
+# Daily LeetCode Solutions
 
-## Problem Statement
+This repository is where I will push my daily LeetCode solution code.
 
-Given an array of integers `nums` and a target integer `target`, return the indices of the two numbers that add up to `target`.
+Each day, I will add a new file containing the solution for one problem, along with the logic and approach used to solve it.
 
-## Example
+## Purpose
 
-```text
-nums = [2, 7, 11, 15]
-target = 9
-```
+- Practice problem-solving every day
+- Keep track of different LeetCode solutions
+- Build a growing collection of Python solutions
 
-Here:
+## Structure
+- `TwoSum.py` - Day-1
+- `Palindrome_Number.py` - Day-2
+- `Readme.md` - repository overview
 
-- `2 + 7 = 9`
+## Workflow
 
-So the answer is:
+1. Solve a LeetCode problem
+2. Write the code in a new or existing file
+3. Test the solution
+4. Push the updated code to the repository
 
-```text
-[0, 1]
-```
+## Notes
 
-## Simple Idea
-
-Try each pair of numbers and check if their sum is equal to the target.
-
-## Time Complexity
-
-- `O(n^2)` in the simple approach
-
-## Space Complexity
-
-- `O(1)`
-
-## Note
-
-A faster solution can use a hash map and solve this in `O(n)` time.
+This README will be updated as new problems are added each day.
