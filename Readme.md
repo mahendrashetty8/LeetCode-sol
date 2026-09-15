@@ -15,6 +15,7 @@ Each day, I will add a new file containing the solution for one problem, along w
 -  `TwoSum.py` - Day-1
 - `Palindrome_Number.py` - Day-2
 - `Reverse_Integer.py` -Day-3
+- `Remove_Duplicates_from_Sorted_Array.py‎` -Day4
 
 ## Workflow
 
