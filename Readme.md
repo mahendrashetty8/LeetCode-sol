@@ -11,10 +11,10 @@ Each day, I will add a new file containing the solution for one problem, along w
 - Build a growing collection of Python solutions
 
 ## Structure
-- `TwoSum.py` - Day-1
+- `Readme.md` - repository overview
+-  `TwoSum.py` - Day-1
 - `Palindrome_Number.py` - Day-2
 - `Reverse_Integer.py` -Day-3
-- `Readme.md` - repository overview
 
 ## Workflow
 
