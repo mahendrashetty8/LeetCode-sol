@@ -12,10 +12,11 @@ Each day, I will add a new file containing the solution for one problem, along w
 
 ## Structure
 - `Readme.md` - repository overview
--  `TwoSum.py` - Day-1
-- `Palindrome_Number.py` - Day-2
-- `Reverse_Integer.py` -Day-3
-- `Remove_Duplicates_from_Sorted_Array.py‎` -Day4
+-  `TwoSum.py` - Day 01
+- `Palindrome_Number.py` - Day 02
+- `Reverse_Integer.py` -Day 03
+- `Remove_Duplicates_from_Sorted_Array.py‎` -Day 04
+- `Remove_Element.py` -Day 05
 
 ## Workflow
 
