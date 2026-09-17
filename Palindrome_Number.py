@@ -11,5 +11,5 @@ class Solution(object):
         return reversed_x == original
 
 sol = Solution()
-x = 121
+x = 212
 print(sol.isPalindrome(x))
