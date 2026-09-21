@@ -7,3 +7,6 @@ class Solution(object):
                 p=p[:-1]
             if p=="":
                 return ""
+strs = ["flower","flow","flight"]
+sol=Solution()
+print(sol.longestCommonPrefix(strs))
