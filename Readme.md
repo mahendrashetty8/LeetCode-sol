@@ -18,6 +18,7 @@ Each day, I will add a new file containing the solution for one problem, along w
 - `Remove_Duplicates_from_Sorted_Array.py‎` - Day 04
 - `Remove_Element.py` - Day 05
 - `Find_the_Duplicate_Number.py` - Day 06
+- `Longest_Common_Prefix.py` -Day 07
 
 ## Workflow
 
